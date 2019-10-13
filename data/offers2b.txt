@@ -1,0 +1,9 @@
+Tim|GammaRaise Capital|Hedge Fund|San Francisco|87000
+Christine|Integral Derivatives|Investment Bank|Chicago|118000
+Lance|Bigup-Side|Startup|Washington, DC|20000
+Bob|Stanguard|Grad School|NYC|20000
+Gabrielle|Glitter|Startup|San Francisco|65000
+Nick|SocialNET|Startup|Boston|128400
+David|InnoTech|Big Software Firm|Washington, DC|135600
+Christine|Irreverent Technologies|Startup|NYC|128400
+David|ExcelMacroEconomics|Investment Bank|Washington, DC|135600
